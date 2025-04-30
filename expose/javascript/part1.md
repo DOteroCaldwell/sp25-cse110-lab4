@@ -1,4 +1,4 @@
-##Part 1##
+# Part 1
 
 1. line 5 prints `values added:  20`
 2. line 13 prints `final result:  20`
